@@ -1,2 +1,0 @@
-# tnz
-TryNewZone
